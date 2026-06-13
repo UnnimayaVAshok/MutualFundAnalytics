@@ -1,3 +1,14 @@
+"""
+Bluestock Mutual Fund Analytics Capstone
+
+Purpose:
+Recommend the top mutual funds based on the investor's
+risk appetite using Sharpe Ratio rankings.
+
+Author: Unnimaya V Ashok
+Date: June 2026
+"""
+
 import pandas as pd
 
 perf_df = pd.read_csv(

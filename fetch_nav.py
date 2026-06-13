@@ -1,3 +1,15 @@
+"""
+Bluestock Mutual Fund Analytics Capstone
+
+Purpose:
+Fetch mutual fund NAV history data from the MFAPI,
+convert the API response into a structured DataFrame,
+and save the data as a CSV file for further analysis.
+
+Author: Unnimaya V Ashok
+Date: June 2026
+"""
+
 import requests
 import pandas as pd
 import os

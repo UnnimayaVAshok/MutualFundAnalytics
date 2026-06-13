@@ -1,3 +1,15 @@
+"""
+Bluestock Mutual Fund Analytics Capstone
+
+Purpose:
+Analyze fund master and NAV datasets, validate AMFI code mappings,
+review fund classifications, and perform basic data quality checks
+before analytics and dashboard development.
+
+Author: Unnimaya V Ashok
+Date: June 2026
+"""
+
 import pandas as pd
 
 # -----------------------------
